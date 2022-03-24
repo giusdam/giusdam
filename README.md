@@ -13,13 +13,3 @@
 <a  href="https://discord.gg/BTt5fUp" title="instagram"><img style="height:20px" src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a> 
 
 </p>
-
-
- 
-
-<p align="left">
-    <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=giusdam&langs_count=100&layout=compact" />
-</p>
-
-
